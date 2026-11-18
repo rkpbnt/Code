@@ -1,3 +1,7 @@
+Software Used: MATLAB 2024b
+
+Requirements: Simscape Tools
+
 Parameters to be in Workspace: 
 
     Qin= 10; Qout= 12; IR=1000; Temp=25;in=6; SA_U=500000; Initial_level =5000;
